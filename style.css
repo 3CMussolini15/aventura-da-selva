@@ -1,3 +1,5 @@
+ /* Rafael Freitas  3ºC  18/09*/
+
 body {
     background-color: #1D4221;
     color: white;
@@ -9,24 +11,34 @@ body {
     margin: 0;
 }
 
+ /* Rafael Freitas  3ºC  18/09*/
+
 button {
     background-color: #64A712;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
 
+ /* Rafael Freitas  3ºC  18/09*/
+
 .passo {
     display: none;
 }
+
+ /* Rafael Freitas  3ºC  18/09*/
 
 .passo.ativo {
     display:block;
 }
 
+ /* Rafael Freitas  3ºC  18/09*/
+
 main {
     text-align: center;
     max-width: 90%;
 }
+
+ /* Rafael Freitas  3ºC  18/09*/
 
 img {
     max-width: 90%;
